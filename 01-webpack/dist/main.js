@@ -1,0 +1,1 @@
+(()=>{var o={64:o=>{o.exports={dateFormate:o=>"2022-01-01",priceFormate:o=>"100.00"}}},e={};function r(t){var s=e[t];if(void 0!==s)return s.exports;var a=e[t]={exports:{}};return o[t](a,a.exports,r),a.exports}(()=>{"use strict";const{dateFormate:o,priceFormate:e}=r(64);console.log(30),console.log(200),console.log(o(1)),console.log(e(1))})()})();
