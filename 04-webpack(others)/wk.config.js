@@ -1,6 +1,7 @@
 const path = require("path");
 
 module.exports = {
+  mode: "development",
   entry: "./src/main.js",
   output: {
     filename: "bundle.js",
@@ -34,6 +35,25 @@ module.exports = {
           "postcss-loader",
           "less-loader",
         ],
+      },
+      {
+        test: /\.(png|jpe?g|gif)$/,
+        type: "asset",
+        generator: {
+          filename: "static/[name][hash:6][ext]",
+        },
+        parser: {
+          dataUrlCondition: {
+            maxSize: 10 * 1024,
+          },
+        },
+      },
+      {
+        test: /\.(ttf|eot|svg|woff2?)$/,
+        type: "asset/resource",
+        generator: {
+          filename: "font/[name][hash:6][ext]",
+        },
       },
     ],
   },

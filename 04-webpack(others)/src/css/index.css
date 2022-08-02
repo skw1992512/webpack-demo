@@ -1,0 +1,12 @@
+@import "./test.css";
+@import "../font/iconfont.css";
+
+.bg-img {
+  display: inline-block;
+  background-image: url("../img/R-C.jpeg");
+  background-size: contain;
+}
+
+.wang_icon::before {
+  content: "\e631";
+}

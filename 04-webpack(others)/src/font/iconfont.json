@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30933410",
+      "name": "电脑关",
+      "font_class": "diannaoguan",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "30933411",
+      "name": "结束录制",
+      "font_class": "jieshuluzhi",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "30933412",
+      "name": "解锁面板",
+      "font_class": "jiesuomianban",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "30933413",
+      "name": "开启录制",
+      "font_class": "kaiqiluzhi",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "30933414",
+      "name": "开启跟踪",
+      "font_class": "kaiqigenzong",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "30933416",
+      "name": "开启直播",
+      "font_class": "kaiqizhibo",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "30933417",
+      "name": "幕布降",
+      "font_class": "mubujiang",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "30933418",
+      "name": "幕布升",
+      "font_class": "mubusheng",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "30933419",
+      "name": "上课",
+      "font_class": "shangke",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "30933420",
+      "name": "投影机关",
+      "font_class": "touyingjiguan",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "30933421",
+      "name": "锁定面板",
+      "font_class": "suodingmianban",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "30933422",
+      "name": "下课",
+      "font_class": "xiake",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "30933423",
+      "name": "投影机开",
+      "font_class": "touyingjikai",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "30933615",
+      "name": "电脑开",
+      "font_class": "diannaokai",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "30933616",
+      "name": "结束直播",
+      "font_class": "jieshuzhibo",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "30934348",
+      "name": "笔记本电脑",
+      "font_class": "bijibendiannao",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "30934349",
+      "name": "台式机",
+      "font_class": "taishiji",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "30934350",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "30934351",
+      "name": "无线投屏",
+      "font_class": "wuxiantouping",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "30934643",
+      "name": "关闭跟踪",
+      "font_class": "guanbigenzong",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}

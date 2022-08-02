@@ -35,6 +35,13 @@ module.exports = {
           "less-loader",
         ],
       },
+      {
+        test: /\.(png|jpe?g|gif)$/,
+        type: "asset/resource",
+        generator: {
+          filename: "static/[hash:6][ext][query]",
+        },
+      },
     ],
   },
 };
